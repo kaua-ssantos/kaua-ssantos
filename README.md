@@ -3,7 +3,7 @@
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** — 2º semestre  
 💻 Estudando **C, Dart, HTML, CSS e JavaScript**  
 🔌 Experiência acadêmica com **ESP32 e IoT**  
-🚀 Em busca de uma oportunidade de **estágio em TI**
+🚀 Desenvolvendo projetos e buscando oportunidades em TI
 
 ## 👨‍💻 Sobre mim
 
