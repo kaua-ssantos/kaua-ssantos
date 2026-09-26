@@ -69,8 +69,8 @@ Meu objetivo é evoluir continuamente como profissional, aprender com novos desa
 
 ## 📫 Contato
 
-- 💼 LinkedIn: **[seu LinkedIn aqui]**
-- 📧 E-mail: **[seu e-mail profissional aqui]**
+- 💼 LinkedIn: **www.linkedin.com/in/kauã-da-silva-santos-03904b2ba**
+- 📧 E-mail: **kauasantos301206@gmail.com**
 
 ---
 
