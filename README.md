@@ -1,4 +1,4 @@
-# Olá! Eu sou Kauã 👋
+# Olá! Me chamo Kauã
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** — 2º semestre  
 💻 Estudando **C, Dart, HTML, CSS e JavaScript**  
